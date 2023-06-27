@@ -1,1 +1,0 @@
-img src = ”"C:\Users\user\Desktop\dz\Anketa\animal.jpg"”>
